@@ -1,0 +1,19 @@
+print("Enter the marks in each subjects to find the avg and grade")
+a=int(input("telugu:"))
+b=int(input("hindi:"))
+c=int(input("english:"))
+d=int(input("maths:"))
+e=int(input("science:"))
+f=int(input("social:"))
+average=(a+b+c+d+e+f)/6
+print("Average:",average)
+if average>=90:
+    print("grade:A")
+elif average>=80:
+    print("grade:B")
+elif average>=70:
+    print("grade:C")
+elif average>=60:
+    print("grade:D")
+else:
+    print("grade:F")
