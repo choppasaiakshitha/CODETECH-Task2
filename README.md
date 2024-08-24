@@ -5,6 +5,8 @@ Duration:AUGUST to SEPTEMBER 2024
 Mentor:Sri lakshmi
 
 Overview of the Project:
+![image](https://github.com/user-attachments/assets/27f0bbc2-d8a0-4aa2-b3da-71df365dc8be)
+
 Objective: The objective of this project is to create a simple a Python program 
 to track and manage student grades. Theprogram should allow the user to input grades
 for different subjects or assignments, calculate the average grade, and display the
